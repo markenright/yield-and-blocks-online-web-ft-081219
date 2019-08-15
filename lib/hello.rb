@@ -9,7 +9,8 @@ def hello_t(array)
 
 end
 
-# call your method here! with an array as the argument and with a do 
+# call your method here! with an array as the argument and with a do AND with a block
+# the block has a parameter |name|
 
 arr = ["Tim", "Tom", "Jim"]
 
