@@ -13,12 +13,4 @@ end
 # the block has a parameter |name|
 #
 
-arr = ["Tim", "Tom", "Jim"]
-
-hello_t(arr) do |name|
-  if name.start_with?("T")
-    puts "Hi, #{name}"
-  end
-end
-
-
+a
