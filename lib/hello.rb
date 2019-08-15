@@ -9,7 +9,7 @@ def hello_t(array)
 
 end
 
-# call your method here! with an array as the argument
+# call your method here! with an array as the argument and with a do 
 
 arr = ["Tim", "Tom", "Jim"]
 
