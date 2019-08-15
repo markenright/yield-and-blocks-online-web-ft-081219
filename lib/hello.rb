@@ -9,5 +9,7 @@ def hello_t(array)
 
 end
 
-# call your method here!
+# call your method here! with an array as the argument
+
+
 
