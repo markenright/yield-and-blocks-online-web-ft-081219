@@ -6,7 +6,7 @@ def hello_t(array)
     i += 1
   end
   
-
+array
 end
 
 # call your method here with an array as the argument AND with a block
